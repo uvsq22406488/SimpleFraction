@@ -1,0 +1,9 @@
+# Ignorer les fichiers de compilation Java
+*.class
+/target/
+*.log
+
+# Ignorer les fichiers de configuration de l'IDE
+.classpath
+.project
+.settings/
